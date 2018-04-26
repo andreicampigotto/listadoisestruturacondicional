@@ -7,7 +7,8 @@ namespace ExerciciosListadeEstruturaCondicional
 {
     class Exercicio08
     {
-        public.Exercicio08(){
+        public Exercicio08()
+        {
 
         }
     }

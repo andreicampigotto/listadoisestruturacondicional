@@ -15,8 +15,14 @@ namespace ExerciciosListadeEstruturaCondicional
             //new Exercicio03();
             //new Exercicio04();
             //new Exercicio06();
-            new Exercicio07();
-
+            //new Exercicio07();
+            //fazer new Exercicio08();
+            //new Exercicio09();
+            //new Exercicio10();
+            //new Exercicio11();
+            //new Exercicio12();
+            //new Exercicio13();
+            new Exercicio14();
         }
     }
 }
