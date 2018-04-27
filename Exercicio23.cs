@@ -9,6 +9,7 @@ namespace ExerciciosListadeEstruturaCondicional
     {
         public Exercicio23()
         {
+            
             Console.Write("Português: ");
             Console.Write("\nDigite a primeira nota: ");
             double nota1P = Convert.ToDouble(Console.ReadLine());
