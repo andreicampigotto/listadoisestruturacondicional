@@ -22,7 +22,18 @@ namespace ExerciciosListadeEstruturaCondicional
             //new Exercicio11();
             //new Exercicio12();
             //new Exercicio13();
-            new Exercicio14();
+            //new Exercicio14();
+            //new Exercicio15();
+            //new Exercicio16();
+            //new Exercicio17();
+            //new Exercicio18();
+            //new Exercicio19();
+            //new Exercicio20();
+            //new Exercicio21();
+            //new Exercicio22();
+            new Exercicio23();
+            //new Exercicio24();
+
         }
     }
 }

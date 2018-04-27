@@ -54,6 +54,16 @@
     <Compile Include="Exercicio12.cs" />
     <Compile Include="Exercicio13.cs" />
     <Compile Include="Exercicio14.cs" />
+    <Compile Include="Exercicio15.cs" />
+    <Compile Include="Exercicio16.cs" />
+    <Compile Include="Exercicio17.cs" />
+    <Compile Include="Exercicio18.cs" />
+    <Compile Include="Exercicio19.cs" />
+    <Compile Include="Exercicio20.cs" />
+    <Compile Include="Exercicio21.cs" />
+    <Compile Include="Exercicio22.cs" />
+    <Compile Include="Exercicio23.cs" />
+    <Compile Include="Exercicio24.cs" />
     <Compile Include="Principal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

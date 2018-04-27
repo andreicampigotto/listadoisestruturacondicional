@@ -5,9 +5,9 @@ using System.Text;
 
 namespace ExerciciosListadeEstruturaCondicional
 {
-    class Exercicio14
+    class Exercicio15
     {
-        public Exercicio14()
+        public Exercicio15()
         {
             Console.Write("Digite o primeiro número: ");
             int n1 = Convert.ToInt32(Console.ReadLine());
@@ -18,18 +18,19 @@ namespace ExerciciosListadeEstruturaCondicional
             Console.Write("Digite o terceiro número: ");
             int n3 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Clear();
-            
-            if (n1 > n2 && n1 > n3) {
+
+            if (n1 < n2 && n1 < n3)
+            {
                 Console.WriteLine(n1);
             }
-                
-            
-            else if (n2 > n1 && n2 > n3){
+
+
+            else if (n2 < n1 && n2 < n3)
+            {
                 Console.WriteLine(n2);
             }
 
-            else if (n3 > n1 && n3 > n2)
+            else if (n3 < n1 && n3 < n2)
             {
                 Console.WriteLine(n3);
             }
@@ -63,26 +64,21 @@ namespace ExerciciosListadeEstruturaCondicional
             {
                 Console.WriteLine(n3);
             }
-            if (n1 < n2 && n1 < n3)
+            if (n1 > n2 && n1 > n3)
             {
                 Console.WriteLine(n1);
             }
 
 
-            else if (n2 < n1 && n2 < n3)
+            else if (n2 > n1 && n2 > n3)
             {
                 Console.WriteLine(n2);
             }
 
-            else if (n3 < n1 && n3 < n2)
+            else if (n3 > n1 && n3 > n2)
             {
                 Console.WriteLine(n3);
             }
-
         }
-
-     }  
-   
+    }
 }
-
-
